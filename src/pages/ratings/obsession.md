@@ -9,6 +9,7 @@ genres:
   - horror
 tags:
   - in theaters
+liked: true
 ---
 
 Obsession absolutely deserves the hype. The atmosphere created by Curry Barker is sublime with its innate creepiness, and that is difficult to nail for a director in his feature film debut. I noticed a lot of anticipatory framing, dynamic movement of characters within shots, the use of shallow focus, and intentionally harsh lighting (or lack therof). Inde's performance steals the show, as many have pointed out, due to her convincing dual-character acting and her micro-expressions. Michael Johnston was also excellent in playing Bear, especially when it comes to revealing character intricacies underneath his "nice guy" veneer. I love that Obsession is a play on the classic "person makes a wish and it comes true" story, and my enjoyment is amplified more by Barker's imbuement of thematic complexity.

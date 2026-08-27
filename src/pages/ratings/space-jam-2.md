@@ -7,6 +7,7 @@ rating: 20
 genres:
   - animation
   - comedy
+liked: false
 ---
 
 **LEBRON JAMES**

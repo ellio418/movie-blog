@@ -18,34 +18,25 @@ import { shortFilmList } from "../../../data/lists/short-films";
       </p>
     </div>
     <div class="listGrid">
-      <!-- <div class="movieCard">
-        <h2>Blue</h2>
-        <h3>Derek Jarman</h3>
-        <p>
-          Blue documents Jarman's journey towards death with AIDS. Through the
-          domination of color and narration, Jarman creates an intensely
-          intimate and personal story.
-        </p>
-      </div>
-      <div class="movieCard">
-        <h2>Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles</h2>
-        <h3>Chantal Akerman</h3>
-        <p>
-          Widely considered to be Akerman's most notable work, Jeanne Dielman is
-          a claustrophobic and unfettered deconstruction of domestic servitude.
-        </p> -->
       {
         Object.entries(shortFilmList)
           .sort(([, a], [, b]) => a.movieName.localeCompare(b.movieName))
           .map(([key, value]) => (
             <div class="movieCard">
-              <h2>{value.movieName}</h2>
+              <div class="title">
+                <h2>{value.movieName}</h2>
+                {value.translatedName == "" ? (
+                  <span />
+                ) : (
+                  <h3 class="translatedName">{value.translatedName}</h3>
+                )}
+              </div>
               {value.image == "" ? (
                 <span />
               ) : (
                 <Image src={value.image} width="184" height="115" alt="" />
               )}
-              <div>
+              <div class='info'>
                 <h3>{value.director}</h3>
                 <p id="movieInfo">
                   {value.year}, {value.country}, {value.runtime}
@@ -74,10 +65,11 @@ import { shortFilmList } from "../../../data/lists/short-films";
   .listGrid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(max(195px, 50%), 2fr));
-    row-gap: 1rem;
     background-color: #F4F5F0;
     color: black;
     border-radius: 15px 15px 15px 15px;
+    padding-top: 2%;
+    padding-bottom: 2%;
   }
 
   .movieCard {
@@ -85,12 +77,32 @@ import { shortFilmList } from "../../../data/lists/short-films";
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    padding: 5%;
+    padding: 3% 3% 3% 3%;
     text-align: center;
+  }
+
+  .title {
+    margin-bottom: 1rem;
+  }
+
+  .title * {
+    margin: 0;
+  }
+
+  .info {
+    margin-top: 1rem;
+  }
+
+  .info * {
+    margin: 0;
   }
 
   .section {
     width: 100%;
+  }
+
+  .translatedName {
+    color: #556B2F;
   }
 
   #movieInfo {

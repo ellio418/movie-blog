@@ -11,6 +11,7 @@ genres:
 tags:
   - video-game-adaptation
   - kids-movie
+liked: false
 ---
 
 Let me preface this by saying that I don't **hate** this movie. There is some clever utilization of Mario video game elements and some notable cameos from other Nintendo characters. The fantastical visuals are colorful and reminiscent of a Super Mario Galaxy stage. There is this one scene in the film's finale where they seamlessly transition between a possibly fictitious NES/SNES video game stage and the characters' traversal that I enjoyed.

@@ -10,6 +10,7 @@ genres:
   - romance
 tags:
   - criterion
+liked: true
 ---
 
 It took me a while for Stagecoach to click, but once it did, I could appreciate the movie's ambition. John Ford's Stagecoach oozes charisma with an impressive balancing act of characters, ultra-specific editing, and a touch of fate. The movie opens with a series of concise vignettes: with just a minute or two of dialogue, a visage of each character is crafted. The doctor drunk, the lady unbelonging, a gambler smitten by love, all brilliantly told in poignant scenes. In Stagecoach, the stringing along of characters is the focal point of the story as they head towards Lordsburg. As we look at wide shots of the desert's features, the intangibility of their shared destination and their ensuing struggles for survival charge a fatalistic impetus.

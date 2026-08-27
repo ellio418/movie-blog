@@ -8,6 +8,7 @@ rating: 85
 genres:
   - drama
   - tragedy
+liked: true
 ---
 
 Lilya 4-ever is simply a tragic powerhouse. Shot with an unrelenting cinema vérité-like style, Lilya 4-ever manages to ingrain small slivers of hope and compassion in an otherwise terribly bleak story. In particular, it is the moments where Lilya and Volodya's platonic relationship show where we see her outwardly brash visage melt away. However, even these tidbits are only momentary.

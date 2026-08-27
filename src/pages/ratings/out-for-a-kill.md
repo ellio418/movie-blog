@@ -9,6 +9,7 @@ genres:
   - thriller
 tags:
   - worst-movies-ever
+liked: false
 ---
 
 **DID NOT FINISH**

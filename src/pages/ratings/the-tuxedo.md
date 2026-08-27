@@ -6,6 +6,7 @@ watchDate: 6/13/2026
 rating: 40
 genres:
   - comedy
+liked: true
 ---
 
 The best way to describe The Tuxedo is delicious rubbish. It's an incredibly campy spy parody that relies on body humor and racy innuendos for sufficient effect. Most of these gags work just fine, but some of the more suggestive jokes are cheap. Half the time, Del's only operational purpose is to seduce men with her appearance. Jackie Chan, as usual, shines with his physical control and martial arts capabilities. Unfortunately, where he succeeds in his comfort zone, his performance falls apart with terrible acting otherwise. As a duo, I'm not convinced that they would make a good couple.

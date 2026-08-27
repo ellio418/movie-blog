@@ -11,6 +11,7 @@ genres:
 tags:
   - controversial
   - watch-party
+liked: false
 ---
 
 Oh nah.

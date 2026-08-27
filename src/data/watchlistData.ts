@@ -626,7 +626,7 @@ export const fullWatchlist = {
 623: {'movieName': `The Napa Boys`, 'year': '2025', 'watched': false, 'difficulty': 0},
 624: {'movieName': `Touki Bouki`, 'year': '1973', 'watched': false, 'difficulty': 0},
 625: {'movieName': `Hyenas`, 'year': '1992', 'watched': false, 'difficulty': 0},
-626: {'movieName': `The Devil, Probably`, 'year': '1977', 'watched': false, 'difficulty': 0},
+626: {'movieName': `The Devil, Probably`, 'year': '1977', 'watched': true, 'difficulty': 0},
 627: {'movieName': `Picnic at Hanging Rock`, 'year': '1975', 'watched': false, 'difficulty': 0},
 628: {'movieName': `The United States of America`, 'year': '1975', 'watched': false, 'difficulty': 0},
 629: {'movieName': `Fox and His Friends`, 'year': '1975', 'watched': false, 'difficulty': 0},
@@ -700,4 +700,7 @@ export const fullWatchlist = {
 697: {'movieName': 'Moonlit Winter', 'year': '2025', 'watched': false, 'difficulty': 0},
 698: {'movieName': 'The Hypothesis of the Stolen Painting', 'year': '1978', 'watched': false, 'difficulty': 0},
 699: {'movieName': 'Sambizanga', 'year': '1972', 'watched': false, 'difficulty': 0},
+700: {'movieName': 'Love and Leashes', 'year': '2022', 'watched': true, 'difficulty': 0},
+701: {'movieName': 'The Company of Strangers', 'year': '1990', 'watched': false, 'difficulty': 0},
+702: {'movieName': 'A Short Film About Killing', 'year': '1988', 'watched': false, 'difficulty': 0},
 }
