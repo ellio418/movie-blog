@@ -2,22 +2,21 @@
 import { Image } from "astro:assets";
 
 import GenLayout from "../../../layouts/GenLayout.astro";
-import { highArtList } from "../../../data/lists/high-art";
+import { mediumArtList } from "../../../data/lists/medium-art";
 ---
 
-<GenLayout title="The Inaccessible and Provocative: High Art Movies">
+<GenLayout title="Digging Deeper: Medium Art Movies">
   <div class="genContainer">
     <div class="section">
-      <h1>The Inaccessible and Provocative: High Art Movies</h1>
+      <h1>Digging Deeper: Medium Art Movies</h1>
       <p>
-        The cinematic artform can push the boundaries, not just in sight or
-        sound, but in form or content. This list will seek to show the movies
-        that provoke beyond the fundamentals.
+        Once you become familiar with some of the most famous arthouse works like <i>The 400 Blows</i> or <i>Breathless</i>, these movies
+        lie underneath the surface. There are lots of films that fall within this category, where art triumphs over entertainment.
       </p>
     </div>
     <div class="listGrid">
       {
-        Object.entries(highArtList)
+        Object.entries(mediumArtList)
           .sort(([, a], [, b]) => a.movieName.localeCompare(b.movieName))
           .map(([key, value]) => (
             <div class="movieCard">

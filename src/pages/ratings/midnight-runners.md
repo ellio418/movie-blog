@@ -7,6 +7,7 @@ rating: 40
 genres:
   - action
   - comedy
+liked: false
 ---
 
 Something about this movie just does not work for me. There are some heartfelt moments and I like that the movie is willing to broach serious topics, but the sensationalist style of the film just rubs me the wrong way. The overreliance on a soundtrack akin to generic infomercial music burned me the way drinking rubbing alcohol might. Midnight Runners' engagement with sentimentality borders on mawkish at times. Even when it is in the right to be sentimental, it disfigures such earned sentimentality with unnecessary sappiness.

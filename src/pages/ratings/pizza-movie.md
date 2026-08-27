@@ -9,6 +9,7 @@ genres:
 tags:
   - stoner
   - surreal
+liked: false
 ---
 
 This movie goes hard if you're into a theater kid or band kid humor. It's like an extended sequence of those drug scenes from 21 Jump Street. There genuinely are great, surreal moments in the film: the exploding heads sequences, Montgomery's body transfer into his butterfly, the unifying into Juan's body. However, it's not a sense of humor for me; it can be downright crude and excessively reliant on nerd humor. For what it's worth though, the aesthetic created with garish lights and crowded composition does save this movie for me.

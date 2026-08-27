@@ -6,6 +6,7 @@ watchDate: 6/12/2026
 rating: 80
 genres:
   - comedy
+liked: true
 ---
 
 Legally Blonde's sharp wit and satirical undertones make it an instant classic, complemented by its quick pacing and character growth.

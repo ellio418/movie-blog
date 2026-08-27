@@ -2,22 +2,21 @@
 import { Image } from "astro:assets";
 
 import GenLayout from "../../../layouts/GenLayout.astro";
-import { highArtList } from "../../../data/lists/high-art";
+import { beginningArtList } from "../../../data/lists/beginning-art";
 ---
 
-<GenLayout title="The Inaccessible and Provocative: High Art Movies">
+<GenLayout title="Starting Anew: Beginner's Guide to Arthouse">
   <div class="genContainer">
     <div class="section">
-      <h1>The Inaccessible and Provocative: High Art Movies</h1>
+      <h1>Beginning Anew: Beginner's Guide to Arthouse</h1>
       <p>
-        The cinematic artform can push the boundaries, not just in sight or
-        sound, but in form or content. This list will seek to show the movies
-        that provoke beyond the fundamentals.
+        This is a resource for those wanting more out of their movies than just generic Netflix movies or dull theatrical releases. This
+        list will likely be the most comprehensive, covering important films from film movements of the past.
       </p>
     </div>
     <div class="listGrid">
       {
-        Object.entries(highArtList)
+        Object.entries(beginningArtList)
           .sort(([, a], [, b]) => a.movieName.localeCompare(b.movieName))
           .map(([key, value]) => (
             <div class="movieCard">

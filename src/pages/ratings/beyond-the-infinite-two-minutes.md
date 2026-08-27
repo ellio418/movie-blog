@@ -11,6 +11,7 @@ tags:
   - low-budget
   - time-travel
   - watch-party
+liked: true
 ---
 
 When talking about movies that can be both low-budget and charming, this is the type of movie I am talking about. Beyond the Infinite Two Minutes delivers an ambitious time-travel premise with a gracious eccentricity. The build-up of events flows together naturally. Beginning as a playful gimmick in which they test out unconsequential scenarios, they increasingly spiral down into a rabbit hole of personal gain. Not only are characters blindsided by the potential of their discovery, but their folly leads them down a path of destruction and tests the boundaries of temporality. Their laxity reflects our natural desires to conquer the forces outside of our control. This reflection is handled in a lightly flippant manner, and I believe that it makes this film charming.
